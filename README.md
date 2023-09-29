@@ -38,7 +38,7 @@ h1 {
 - **Values:** They differ depending on the property.
 - **Examples:**
     - `color: red;`
-    - `width: 400px;`
+    - `width: 40px;`
     - `font-size: 20px;`
 
 <br>
